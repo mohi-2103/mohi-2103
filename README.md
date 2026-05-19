@@ -19,8 +19,8 @@ I am actively looking for entry-level opportunities where I can contribute to so
 ## 🛠️ Tech Stack
 
 ### Programming Languages
-- Python
 - Java
+- Python
 - C
 - C++
 
