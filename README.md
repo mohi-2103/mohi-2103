@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I am a motivated Computer Science graduate with a strong foundation in Python, Java, SQL, and Django. I enjoy building practical applications and solving real-world problems through code.
+I am a motivated Computer Science graduate with a strong foundation in Java, Python, SQL, and Django. I enjoy building practical applications and solving real-world problems through code.
 
 I am actively looking for entry-level opportunities where I can contribute to software development projects and continue growing as a developer.
 
@@ -43,6 +43,11 @@ I am actively looking for entry-level opportunities where I can contribute to so
 
 ## 📌 Featured Projects
 
+### 🚆 Online Reservation System
+**Tech Stack:** Java
+- Built a train reservation system with booking and cancellation features.
+- Managed reservation data and PNR-based cancellation.
+
 ### 🍔 Online Food Order System
 **Tech Stack:** Python, Django, SQL
 - Developed a web application for online food ordering.
@@ -53,11 +58,6 @@ I am actively looking for entry-level opportunities where I can contribute to so
 **Tech Stack:** Python
 - Simulated ATM operations including withdrawal, deposit, and PIN change.
 - Implemented secure authentication and transaction handling.
-
-### 🚆 Online Reservation System
-**Tech Stack:** Java
-- Built a train reservation system with booking and cancellation features.
-- Managed reservation data and PNR-based cancellation.
 
 ### 🎟️ Digital Coupon Recommendation System
 **Tech Stack:** Python, Data Analysis
